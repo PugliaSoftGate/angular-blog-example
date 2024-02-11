@@ -1,7 +1,7 @@
-.contain-small-card{
+.container-small-card{
   margin-bottom: 15px;
   width: 700px;
-
+  height: 150px;
 }
 
 .container-small-card-content{
@@ -10,8 +10,10 @@
 }
 
 .small-card-photo > img{
-  width: 400px;
-  min-width: 400px;
+  width: 200px;
+  min-width: 200px;
+  height: 100px;
+  min-height: 100px;
   margin-right: 20px;
 
 }
@@ -20,6 +22,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-size: 10px;
 }
 
 
